@@ -1,0 +1,284 @@
+/*es css mxolod contacts page-stvis aris titqmis yvelaferi igivea rac style.css shi ubralod amas body da bodyshi padding araaq DD */
+
+header {
+	margin-bottom: 31px;
+}
+
+.header2 {
+	margin-bottom: 97px;
+}
+
+li {
+	display: inline-block;
+}
+
+ul {
+	display: inline-block;
+}
+
+nav {
+	padding-top: 54px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.logo5 {
+	padding-top: 54px;
+	padding-left: 52px;
+	vertical-align: middle;
+}
+
+.active {
+	font-size: 26px;
+	font-weight: 700;
+	color: #4E6FAE;
+	margin-left: 60px;
+}
+
+.active1 {
+	font-size: 26px;
+	font-weight: 700;
+	color: #4E6FAE;
+	margin-left: 87px;
+	text-decoration: none;
+}
+
+.active3 {
+	font-size: 26px;
+	font-weight: 700;
+	color: #4E6FAE;
+	margin-left: 81px;
+	text-decoration: none;
+}
+
+.main {
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+	margin-left: 60px;
+	text-decoration: none;
+}
+
+.news {
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+	margin-left: 87px;
+	text-decoration: none;
+}
+
+.contacts {
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+	margin-left: 81px;
+	text-decoration: none;
+}
+
+.date {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	font-weight: 400;
+	text-align: center;
+	padding-top: 12px;
+	margin-bottom: 18px;
+}
+
+.month {
+	font-size: 24px;
+	font-weight: 400;
+	color: #8D81FF;
+	margin-bottom: 8px;
+}
+
+.info {
+	font-size: 20px;
+	font-weight: 700;
+	color: #4E6FAE;
+	margin-bottom: 13px;
+}
+
+
+.pic1 {
+	margin-bottom: 155px;
+}
+
+.pic2 {
+	margin-bottom: 155px;
+}
+
+.paragraph {
+	width: 778px;
+	display: inline-block;
+	margin-left: 66px;
+	vertical-align: top;
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+	line-height: 19px;
+}
+
+.line {
+	display: inline-block;
+	border: solid 1px;
+	height: 45px;
+	vertical-align: top;
+	margin: 2px 41px;
+}
+
+.line2 {
+	display: inline-block;
+	display: inline-block;
+	border: solid 1px;
+	height: 22px;
+	vertical-align: middle;
+	margin: 0 18px;
+}
+
+.pic3 {
+	margin-bottom: 143px;
+}
+
+.banner {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 120px;
+}
+
+.siaxleebi {
+	display: inline-block;
+	margin-left: 262px;
+	font-size: 26px;
+	font-weight: 700;
+	color: #4E6FAE;
+}
+
+.ixiletsiaxleebi {
+	display: inline-block;
+	font-size: 26px;
+	font-weight: 400;
+	color: #4E6FAE;
+	margin-bottom: 26px;
+}
+
+.square {
+	vertical-align: middle;
+	display: inline-block;
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	margin-left: 262px;
+	margin-bottom: 91px;
+}
+
+.square2 {
+	vertical-align: middle;
+	display: inline-block;
+	width: 500px;
+	height: 192px;
+	background-color: #E7E7E7;
+	margin-left: 52px;
+	margin-bottom: 91px;
+}
+
+.title {
+	padding-left: 23px;
+	padding-top: 21px;
+	font-size: 20px;
+	font-weight: 400;
+	color: #3F4145;
+
+}
+
+.logo2 {
+	display: inline-block;
+	padding-left: 36px;
+	padding-top: 29px;
+}
+
+.paragraph2 {
+	width: 335px;
+	height: 95px;
+	font-size: 16px;
+	font-weight: 400;
+	color: #7E8898;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 37px;
+	margin-top: 20px;
+	line-height: 19.31px;
+}
+
+.logo3 {
+	display: inline-block;
+	padding-left: 36px;
+	padding-top: 29px;
+}
+
+.paragraph3 {
+	width: 335px;
+	height: 95px;
+	font-size: 16px;
+	font-weight: 400;
+	color: #7E8898;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 21px;
+	margin-top: 15px;
+	line-height: 19.31px;
+}
+
+.paragraph4 {
+    padding: 93px 162px;
+    padding-right: 40px;
+    width: 1660px;
+    height: 735px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #4E6FAE;
+    background-color: #E7E7E7;
+    display: inline-block;
+    line-height: 1.2;
+}
+
+.footer {
+	margin-left: 96px;
+	margin-top: 104px;
+}
+
+p {
+	font-size: 20px;
+	font-weight: 400;
+	color: #3F4145;
+	display: inline-block;
+}
+
+.gray {
+	font-size: 20px;
+	font-weight: 400;
+	color: #7E8898;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.text {
+	font-size: 20px;
+	font-weight: 400;
+	color: #3F4145;
+	display: inline-block;
+}
+
+.continfo {
+	display: inline;
+}
+
+.map {
+	vertical-align: middle;
+	float: right;
+	width: 944px;
+	height: 529px;
+}
